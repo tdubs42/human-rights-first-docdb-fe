@@ -1,11 +1,12 @@
 repo_name: tdubs42/human-rights-first-docdb-fe
 report_id: f07e66e49ad3984edcabf1bf4938bb9f
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T22:27:10+00:00'
+timestamp: '2024-01-04T15:16:13+00:00'
 requested_by: paulstgermain
 provider: github
 branch: main
-detected_tools_count: 28
+detected_tools_count: 30
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe
   detection_source: Repo Metadata
 - name: Ant Design
   description: A set of high-quality React components
@@ -36,7 +39,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/6112/12101536.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Ryan Hamblin
   last_updated_on: 2021-10-11 15:22:58.000000000 Z
@@ -49,7 +52,7 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/service/2385/default_86d9af5b442d21446483d9bae3af24a4cee7d792.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Ryan Hamblin
   last_updated_on: 2021-10-11 15:22:58.000000000 Z
@@ -63,7 +66,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: collerhatguy
   last_updated_on: 2021-10-28 22:50:10.000000000 Z
@@ -77,7 +80,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/3350/8261421.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: collerhatguy
   last_updated_on: 2021-10-28 22:50:10.000000000 Z
@@ -90,7 +93,7 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/4074/13142323.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: collerhatguy
   last_updated_on: 2021-11-12 22:48:33.000000000 Z
@@ -103,6 +106,7 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/5448/13142323.png
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package.json
   detection_source: package.json
   last_updated_by: collerhatguy
   last_updated_on: 2021-11-12 22:48:33.000000000 Z
@@ -115,7 +119,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
-  detection_source: package.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/.eslintrc
+  detection_source: ".eslintrc"
   last_updated_by: Ryan Hamblin
   last_updated_on: 2021-10-11 15:22:58.000000000 Z
 - name: Git
@@ -126,6 +131,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -135,6 +141,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/.github/workflows/ci.yml
   detection_source: ".github/workflows/ci.yml"
   last_updated_by: Ryan Hamblin
   last_updated_on: 2021-10-11 15:22:58.000000000 Z
@@ -148,7 +155,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Ryan Hamblin
   last_updated_on: 2021-10-11 15:22:58.000000000 Z
@@ -160,6 +167,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package.json
   detection_source: package.json
   last_updated_by: Ryan Hamblin
   last_updated_on: 2021-10-11 15:22:58.000000000 Z
@@ -173,7 +181,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Ryan Hamblin
   last_updated_on: 2021-10-11 15:22:58.000000000 Z
@@ -182,6 +190,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package.json
   detection_source: package.json
   last_updated_by: Ryan Hamblin
   last_updated_on: 2021-10-11 15:22:58.000000000 Z
@@ -190,6 +199,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package.json
   detection_source: package.json
   last_updated_by: Ryan Hamblin
   last_updated_on: 2021-10-11 15:22:58.000000000 Z
@@ -203,7 +213,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Ryan Hamblin
   last_updated_on: 2021-10-11 15:22:58.000000000 Z
@@ -218,7 +228,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: collerhatguy
   last_updated_on: 2021-10-28 22:50:10.000000000 Z
@@ -232,7 +242,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: andrewsbusby
   last_updated_on: 2021-10-25 22:32:36.000000000 Z
@@ -246,10 +256,38 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: collerhatguy
   last_updated_on: 2021-10-28 22:50:10.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 4.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Ryan Hamblin
+  last_updated_on: 2021-10-11 15:22:58.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 10.2.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Ryan Hamblin
+  last_updated_on: 2021-10-11 15:22:58.000000000 Z
 - name: prettier-eslint-cli
   description: CLI for prettier-eslint
   package_url: https://www.npmjs.com/prettier-eslint-cli
@@ -260,7 +298,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16620/default_9012166d3e51cea5db6b4e69c80ace1c50b7509d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: andrewsbusby
   last_updated_on: 2021-10-25 22:32:36.000000000 Z
@@ -274,7 +312,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17250/default_8da30b412bf0dbb63f862bee0dfab0a32df2fb69.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Ryan Hamblin
   last_updated_on: 2021-10-11 15:22:58.000000000 Z
@@ -288,7 +326,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: collerhatguy
   last_updated_on: 2021-10-28 22:50:10.000000000 Z
@@ -302,7 +340,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: collerhatguy
   last_updated_on: 2021-11-12 22:48:33.000000000 Z
@@ -316,7 +354,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: collerhatguy
   last_updated_on: 2021-10-28 22:50:10.000000000 Z
@@ -330,7 +368,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: collerhatguy
   last_updated_on: 2021-10-28 22:50:10.000000000 Z
@@ -344,7 +382,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16512/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: collerhatguy
   last_updated_on: 2021-11-12 22:48:33.000000000 Z
@@ -358,7 +396,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17426/default_4036a97a759f3ed3ec649b3a5fa230fe4d064a6a.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/human-rights-first-docdb-fe/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Ryan Hamblin
   last_updated_on: 2021-10-11 15:22:58.000000000 Z
