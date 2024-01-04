@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 tdubs42/human-rights-first-docdb-fe is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -15,11 +16,13 @@ tdubs42/human-rights-first-docdb-fe is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 tdubs42/human-rights-first-docdb-fe is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -33,14 +36,15 @@ tdubs42/human-rights-first-docdb-fe is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [tdubs42/human-rights-first-docdb-fe](https://github.com/tdubs42/human-rights-first-docdb-fe)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|28<br/>Tools used|11/09/23 <br/>Report generated|
+|30<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -193,9 +197,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (12)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (14)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (12)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (14)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -203,6 +207,8 @@ Full tech stack [here](/techstack.md)
 |[@testing-library/react](https://www.npmjs.com/@testing-library/react)|v10.4.7|10/28/21|collerhatguy |MIT|N/A|
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v6.11.0|10/25/21|andrewsbusby |MIT|N/A|
 |[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.0.8|10/28/21|collerhatguy |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v4.2.5|10/11/21|Ryan Hamblin |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v10.2.11|10/11/21|Ryan Hamblin |MIT|N/A|
 |[prettier-eslint-cli](https://www.npmjs.com/prettier-eslint-cli)|v5.0.0|10/25/21|andrewsbusby |MIT|N/A|
 |[prompts](https://www.npmjs.com/prompts)|v2.3.2|10/11/21|Ryan Hamblin |MIT|N/A|
 |[react-dom](https://www.npmjs.com/react-dom)|v16.13.1|10/28/21|collerhatguy |MIT|N/A|
@@ -215,4 +221,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
